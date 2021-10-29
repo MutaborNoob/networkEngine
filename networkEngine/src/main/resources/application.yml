@@ -5,7 +5,7 @@ spring:
     password: MariaMal007ElenaMal007Natali98++
   jpa:
     hibernate:
-      ddl-auto: none
+      ddl-auto: update
 
 someParameter:
   value: 5463
